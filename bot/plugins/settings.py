@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG
+# (c) @TG_Nsns_999
 
 import re
 from pyrogram import Client, filters, enums
